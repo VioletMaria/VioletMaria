@@ -45,10 +45,12 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=80 height=80 />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=80 height=80 />
 </div>
-<br/>          
+<br/>  
+<div align="center">
 <a href="https://github.com/violetmaria/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=violetmaria&hide=stars&count_private=true&theme=dracula&show_icons=true"/>
 </a>
 <a href="https://github.com/violetmaria/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetmaria&layout=compact&theme=dracula" />
 </a>
+</div>
