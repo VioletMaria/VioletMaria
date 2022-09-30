@@ -10,3 +10,5 @@
 - ⚡ Fun fact: I have been coding for 4 years as of October 2022!!!
 
 [![Violet's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetmaria&hide=stars,issues&count_private=true&theme=dracula&show_icons=true)](https://github.com/violetmaria/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetmaria)](https://github.com/violetmaria/github-readme-stats)
