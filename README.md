@@ -11,4 +11,4 @@
 
 [![Violet's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetmaria&hide=stars,issues&count_private=true&theme=dracula&show_icons=true)](https://github.com/violetmaria/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetmaria)](https://github.com/violetmaria/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetmaria&layout=compact)](https://github.com/violetmaria/github-readme-stats)
