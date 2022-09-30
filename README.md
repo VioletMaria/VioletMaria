@@ -11,6 +11,11 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have been coding for 4 years as of October 2022!!!
 
+## Languages
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 <a href="https://github.com/violetmaria/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=violetmaria&hide=stars&count_private=true&theme=dracula&show_icons=true"/>
 </a>
