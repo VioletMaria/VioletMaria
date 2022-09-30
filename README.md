@@ -24,6 +24,8 @@
 
 </div>
 
+<br/>
+
 <h2 align="center">Languages</h2>
 <div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=80 height=80 />
@@ -55,6 +57,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetmaria&layout=compact&theme=dracula" />
 </a>
 </div>
+
+<br/>
 
 <div align="center">
           <img src="https://media.tenor.com/EkcSFDxRvf4AAAAC/thanks-for-dropping-by-the-simpsons.gif" />
