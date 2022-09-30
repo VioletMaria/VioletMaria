@@ -9,4 +9,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have been coding for 4 years as of October 2022!!!
 
-[![Violet's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetmaria&hide=stars,issues&count_private=true)](https://github.com/violetmaria/github-readme-stats)
+[![Violet's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetmaria&hide=stars,issues&count_private=true&theme=dracula)](https://github.com/violetmaria/github-readme-stats)
