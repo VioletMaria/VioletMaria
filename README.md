@@ -55,3 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetmaria&layout=compact&theme=dracula" />
 </a>
 </div>
+
+<div align="center">
+          <img src="https://media.tenor.com/EkcSFDxRvf4AAAAC/thanks-for-dropping-by-the-simpsons.gif" />
+</div>
