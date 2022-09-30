@@ -1,4 +1,4 @@
-<h1 font-family: monospace>Howdy! While you're here take a peek at my readme 👋</h1>
+<h1 style="font-family: monospace">Howdy! While you're here take a peek at my readme 👋</h1>
 
 ![programming cat lady](https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
