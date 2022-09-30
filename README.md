@@ -1,6 +1,7 @@
 <h1>Howdy! While you're here take a peek at my readme 👋</h1>
-
-![programming cat lady](https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+<div align="center">
+          ![programming cat lady](https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+</div>
 
 - 🔭 I’m currently working on an ecommerce site with React, Express, MongoDB and Node.js
 - 🌱 I’m currently learning TypeScript
