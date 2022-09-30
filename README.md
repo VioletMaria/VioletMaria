@@ -1,4 +1,6 @@
-### Welcome! Have a looksie at my repository 👋
+### Welcome! Have a looksie at my readme 👋
+
+![programming cat lady](https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
 - 🔭 I’m currently working on an ecommerce site with React, Express, MongoDB and Node.js
 - 🌱 I’m currently learning TypeScript
