@@ -12,7 +12,8 @@
 - ⚡ Fun fact: I have been coding for 4 years as of October 2022!!!
 
 <h2 align="center">Languages</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+          
           
 
 <a href="https://github.com/violetmaria/github-readme-stats">
