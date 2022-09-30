@@ -12,12 +12,11 @@
 - ⚡ Fun fact: I have been coding for 4 years as of October 2022!!!
 
 <h2 align="center">Languages</h2>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=80 height=80 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=80 height=80 />
+</div>          
           
-          
-          
-
 <a href="https://github.com/violetmaria/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=violetmaria&hide=stars&count_private=true&theme=dracula&show_icons=true"/>
 </a>
