@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**VioletMaria/VioletMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome! Have a looksie at my repository 👋
 
 - 🔭 I’m currently working on an ecommerce site with React, Express, MongoDB and Node.js
 - 🌱 I’m currently learning TypeScript
@@ -12,7 +7,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my experience
 - 📫 How to reach me: violetszewczyk@gmail.com (just copy and paste... I know it's a mouthful)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have been coding for 4 years as of October 2022!!! 
--->
+- ⚡ Fun fact: I have been coding for 4 years as of October 2022!!!
 
 [![Violet's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetmaria)](https://github.com/violetmaria/github-readme-stats)
