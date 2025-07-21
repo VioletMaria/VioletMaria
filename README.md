@@ -19,7 +19,7 @@
                      <br/>
                     😄 Pronouns: she/her
                     <br/>
-                    ⚡ Fun fact: I have been coding for 4 years as of October 2022!!!
+                    ⚡ Fun fact: I have been coding for 6 years as of October 2024!!!
           </ul>
 
 </div>
