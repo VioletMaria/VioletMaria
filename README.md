@@ -5,7 +5,7 @@
 
 <div align="center">
           <ul>
-                    🔭 I’m currently working on an ecommerce site with React, Express, MongoDB and Node.js
+                    🔭 I’m currently working on a Three.js React Project using gsap and tailwind
                     <br/>
                     🌱 I’m currently learning TypeScript
                      <br/>
