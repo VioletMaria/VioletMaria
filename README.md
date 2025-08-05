@@ -5,7 +5,7 @@
 
 <div align="center">
           <ul>
-                    🔭 I’m currently working on a Three.js React Project using gsap and tailwind
+                    🔭 I’m currently working on a Three.js React Project using gsap, vite and tailwind
                     <br/>
                     🌱 I’m currently learning TypeScript
                      <br/>
